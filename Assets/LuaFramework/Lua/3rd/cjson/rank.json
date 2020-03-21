@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "Name": "kk",
+      "Exp": 100,
+      "Job": "AK1",
+      "CombatPower": 300
+    },
+    {
+      "Name": "lisi",
+      "Exp": 1000,
+      "Job": "AK2",
+      "CombatPower": 15
+    },
+    {
+      "Name": "lufei",
+      "Exp": 200,
+      "Job": "AK3",
+      "CombatPower": 150
+    },
+    {
+      "Name": "solong",
+      "Exp": 300,
+      "Job": "AK4",
+      "CombatPower": 2
+    }
+  ]
+}
